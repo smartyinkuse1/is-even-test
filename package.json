@@ -1,0 +1,24 @@
+{
+  "name": "even-package",
+  "version": "1.0.0",
+  "description": "This is some test project to check for even number, donot take too seriously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartyinkuse1/is-even-test.git"
+  },
+  "keywords": [
+    "Even",
+    "check",
+    "number"
+  ],
+  "author": "Olayinka Famutimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartyinkuse1/is-even-test/issues"
+  },
+  "homepage": "https://github.com/smartyinkuse1/is-even-test#readme"
+}
